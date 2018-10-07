@@ -1,4 +1,4 @@
-# program to sum multiples of 3 or 5
+# program to sum multiples of 3 or 5 using python
 n = int ( input ("n : "))
 i = 1
 sum = 0
